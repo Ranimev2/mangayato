@@ -1,6 +1,6 @@
 <?php
 
-$public_api = "https://mangayaro-api.vercel.app";
+$public_api = "https://mangayaro-id.vercel.app";
 
 function requests($url) {
     // persiapkan curl
