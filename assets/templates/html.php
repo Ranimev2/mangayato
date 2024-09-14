@@ -35,7 +35,7 @@ EOD;
 $footer = <<<EOD
 <div class="footer w-100">
     <div class="bg-success w-100" style="width: 100%; height: 100px; text-align: center; ">
-        <p class="text-light fw-bold" style="line-height: 100px;">&copy; 2023 Made By ❤️ <a href="https://latipharkat.my.id/" class="latip link-light text-decoration-none">Latip176</a></p>
+        <p class="text-light fw-bold" style="line-height: 100px;">&copy; 2022 Made By ❤️ <a href="https://myranime.my.id" class="latip link-light text-decoration-none">SHANA</a></p>
     </div>
 </div>
 EOD;
