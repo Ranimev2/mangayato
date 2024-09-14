@@ -61,7 +61,7 @@ if($url) {
     <div class="container button">
         <div class="row" style="display: flex; justify-content: center;">
             <div class="col-md-12 mt-3">
-                <h5 class="text-center">Chapter <?= $berada ?></h5>
+                <h5 class="text-center">Chapter<?= $berada ?></h5>
             </div>
             <div class="col-md-6 text-center" style="width: 160px;">
                 <a href="?url=<?= $data[0]["prev"] ?>" class="text-decoration-none link-light btn btn-primary fw-bold"> < Sebelumnya</a>
